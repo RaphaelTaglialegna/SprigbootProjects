@@ -49,6 +49,9 @@
 		<item key="LimitValue" value="10"/>
 		<item key="SkipNull" value="false"/>
 		<item key="ToStringTemplateSelected" value="0"/>
+		<item key="InstanceOf" value="false"/>
+		<item key="Blocks" value="false"/>
+		<item key="Objects.equals &amp; Objects.hash" value="false"/>
 	</section>
 	<section name="AddGetterSetterDialog">
 		<item key="SortOrdering" value="false"/>
@@ -66,6 +69,13 @@
 		<item key="DIALOG_Y_ORIGIN" value="23"/>
 		<item key="DIALOG_WIDTH" value="578"/>
 		<item key="DIALOG_HEIGHT" value="722"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+	<section name="DialogBounds_GenerateHashCodeEqualsDialog">
+		<item key="DIALOG_X_ORIGIN" value="26"/>
+		<item key="DIALOG_Y_ORIGIN" value="23"/>
+		<item key="DIALOG_WIDTH" value="566"/>
+		<item key="DIALOG_HEIGHT" value="593"/>
 		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
 	</section>
 </section>
