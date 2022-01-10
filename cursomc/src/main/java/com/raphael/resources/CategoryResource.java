@@ -19,7 +19,7 @@ public class CategoryResource {
 		Category cat1 = new Category(1, "Informática");
 		Category cat2 = new Category(2, "Escritório");
 		
-		List<Category> lista = new ArrayList<>();
+		List<Category> lista = new ArrayList<>(); 
 		
 		lista.add(cat1);
 		lista.add(cat2);
