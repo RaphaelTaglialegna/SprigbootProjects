@@ -1,0 +1,19 @@
+package com.raphae.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.raphael.domain.Category;
+import com.raphael.repositories.CategoryRepository;
+
+@Service
+public class CategoryService {
+	
+	@Autowired
+	private CategoryRepository repo;
+	
+	public CategoryRepository buscar() { 
+		
+	}
+	
+}

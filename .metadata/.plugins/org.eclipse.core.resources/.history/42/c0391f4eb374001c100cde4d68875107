@@ -1,0 +1,5 @@
+package com.raphae.services;
+
+public class CategoryService {
+
+}
